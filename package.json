@@ -1,0 +1,31 @@
+{
+	"name": "responsivetools.js",
+	"version": "0.1.0",
+	"description": "A script to help developer with responsive design",
+	"keywords": [
+		"responsive",
+		"design",
+		"mediaquery",
+		"resolutions"
+	],
+	"homepage": "http://felipemorais.github.com/responsivetools.js",
+	"bugs": {
+		"url": "https://github.com/felipemorais/responsivetools.js/issues"
+	},
+	"author": {
+		"name": "Felipe Morais",
+		"email": "luisfelipe0910@gmail.com"
+	},
+	"main": "lib/responsivetools.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/felipemorais/responsivetools.js"
+	},
+	"scripts": {
+		"dev": "grunt",
+		"test": "grunt test"
+	},
+	"licenses": [{
+		"type": "MIT"
+	}]
+}
